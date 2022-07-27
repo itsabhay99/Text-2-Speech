@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Text-2-Speech/static/css/main.29cbbd4d.css",
+    "main.js": "/Text-2-Speech/static/js/main.bc45d840.js",
+    "static/media/text-to-speech(1).png": "/Text-2-Speech/static/media/text-to-speech(1).4e131dda03a4ddcbf629.png",
+    "index.html": "/Text-2-Speech/index.html",
+    "main.29cbbd4d.css.map": "/Text-2-Speech/static/css/main.29cbbd4d.css.map",
+    "main.bc45d840.js.map": "/Text-2-Speech/static/js/main.bc45d840.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29cbbd4d.css",
+    "static/js/main.bc45d840.js"
+  ]
+}
